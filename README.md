@@ -1,4 +1,4 @@
-# Ima 今 REST API
+# NewsReader API
 
 ## TOC
 
